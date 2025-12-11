@@ -1,0 +1,4 @@
+/* Reset App.css - all styles are now in index.css and Tailwind */
+#root {
+  min-height: 100vh;
+}
